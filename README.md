@@ -48,5 +48,9 @@ You may view GitHub profile here:
 
 ## Image
 
+![image](https://user-images.githubusercontent.com/68489432/105563623-d1649800-5cec-11eb-978e-a74a7229cd9e.png)
+![image](https://user-images.githubusercontent.com/68489432/105563632-d6c1e280-5cec-11eb-8f87-64a8a8bab93f.png)
+
+
 ## Link
 Visit Site: https://samanthafoster17.github.io/Portfolio-React-/
